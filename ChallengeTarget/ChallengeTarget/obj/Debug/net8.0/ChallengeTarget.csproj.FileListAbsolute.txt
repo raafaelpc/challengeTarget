@@ -1,0 +1,14 @@
+C:\Users\rafae\source\repos\ChallengeTarget\ChallengeTarget\bin\Debug\net8.0\ChallengeTarget.exe
+C:\Users\rafae\source\repos\ChallengeTarget\ChallengeTarget\bin\Debug\net8.0\ChallengeTarget.deps.json
+C:\Users\rafae\source\repos\ChallengeTarget\ChallengeTarget\bin\Debug\net8.0\ChallengeTarget.runtimeconfig.json
+C:\Users\rafae\source\repos\ChallengeTarget\ChallengeTarget\bin\Debug\net8.0\ChallengeTarget.dll
+C:\Users\rafae\source\repos\ChallengeTarget\ChallengeTarget\bin\Debug\net8.0\ChallengeTarget.pdb
+C:\Users\rafae\source\repos\ChallengeTarget\ChallengeTarget\obj\Debug\net8.0\ChallengeTarget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\source\repos\ChallengeTarget\ChallengeTarget\obj\Debug\net8.0\ChallengeTarget.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\ChallengeTarget\ChallengeTarget\obj\Debug\net8.0\ChallengeTarget.AssemblyInfo.cs
+C:\Users\rafae\source\repos\ChallengeTarget\ChallengeTarget\obj\Debug\net8.0\ChallengeTarget.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\ChallengeTarget\ChallengeTarget\obj\Debug\net8.0\ChallengeTarget.dll
+C:\Users\rafae\source\repos\ChallengeTarget\ChallengeTarget\obj\Debug\net8.0\refint\ChallengeTarget.dll
+C:\Users\rafae\source\repos\ChallengeTarget\ChallengeTarget\obj\Debug\net8.0\ChallengeTarget.pdb
+C:\Users\rafae\source\repos\ChallengeTarget\ChallengeTarget\obj\Debug\net8.0\ChallengeTarget.genruntimeconfig.cache
+C:\Users\rafae\source\repos\ChallengeTarget\ChallengeTarget\obj\Debug\net8.0\ref\ChallengeTarget.dll
