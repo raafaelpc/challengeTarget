@@ -32,7 +32,7 @@ Repositório contendo soluções para 5 desafios técnicos implementados em C# c
 ## 🛠️ Como Executar
 
 1. **Pré-requisitos**
-   - .NET 6 SDK
+   - .NET 6+
    - Visual Studio 2022 (recomendado)
 
 2. **Execução**
